@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EnterPloyee</string>
+    <string-array name="Signup">
+        <item name="company">Company</item>
+        <item name="school">School</item>
+        <item name="college">College</item>
+        <item name="group">Group</item>
+        <item name="consultant">Consultants</item>
+    </string-array>
+
+    <string-array name="Plan">
+        <item name="Starter">Starter</item>
+        <item name="basic">Basic</item>
+        <item name="Company">Company</item>
+        <item name="enterprise">Enterprise</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="choose">
+        <item name="Organisation">Organisation</item>
+        <item name="Individual">Individual</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">More Options</string>
+</resources>
