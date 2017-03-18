@@ -79,6 +79,8 @@ public class login extends Fragment implements View.OnClickListener {
         username = ETLogin_username.getText().toString();
         password = ETLogin_password.getText().toString();
 
+        Intent intent  = new Intent(getContext(),Main2Activity.class);
+        startActivity(intent);
 
         //computing Sha
         computeSHAHash(password);
